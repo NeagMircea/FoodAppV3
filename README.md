@@ -28,9 +28,11 @@
  
  DAO 		 - Data Acces Object, interfata implementata de Room pt operatiile asupra DB; 
  
- DataBase   
+ DataBase   - baza de date, mosteneste RoomDataBase
  
  Food 		 - o simpla clasa cu atribute si metode get/set specifice;
+ 
+ FoodData - clasa cu o metoda ce returneaza un array de instante Food
  
 ## Sistem de operare:
  Android
