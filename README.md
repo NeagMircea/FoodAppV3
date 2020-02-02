@@ -9,7 +9,7 @@
  
 ## Descriere:
 
- Aplicatie tip carte de bucate, utilizatorul poate vizualiza, introduce, edita si sterge retete.
+ Aplicatie android tip carte de bucate, utilizatorul poate vizualiza, introduce, edita si sterge retete.
  
  Creata dupa modelul MVVM, foloseste async task-uri pentru operatiile asupra bazei de date sqlite.
  
