@@ -1,6 +1,4 @@
-package com.example.foodappv3.utilities;
-
-import com.example.foodappv3.l3_model.Food;
+package com.example.foodappv3.l3_model;
 
 public class FoodData //clasa utilitara pt a usura pre-inserarea in db
 {

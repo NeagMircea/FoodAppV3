@@ -9,8 +9,6 @@ import androidx.room.Room;
 import androidx.room.RoomDatabase;
 import androidx.sqlite.db.SupportSQLiteDatabase;
 
-import com.example.foodappv3.utilities.FoodData;
-
 
 @Database(entities = {Food.class},version = 1)//entities-tabele db
 public abstract class DataBase extends RoomDatabase
