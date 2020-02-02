@@ -45,6 +45,9 @@
  [LifeCycle](https://developer.android.com/topic/libraries/architecture/lifecycle) pentru LiveData (date observabile) si ViewModel
  
  
+ [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview) pentru lista glisabila
+ 
+ 
  [CircleImageView](https://github.com/hdodenhof/CircleImageView) pentru imagini in forma de cerc
  
  
